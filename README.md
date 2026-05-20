@@ -83,16 +83,3 @@ I design, automate, and harden cloud infrastructure on **AWS** using **Python** 
 </p>
 
 ---
-
-### 🏅 Badges
-
-<b>My GitHub Stats</b>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanhashmi53&show_icons=true&locale=en&layout=compact" alt="rahmanhashmi53" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanhashmi53&" alt="rahmanhashmi53" /></p>
----
-
-<p align="center">
-  <sub>Last updated: 11 Aug 2025 • Focus: Cloud & DevOps</sub>
-</p>
